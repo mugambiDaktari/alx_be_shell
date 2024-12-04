@@ -1,2 +1,1 @@
-# alx_be_shell
-Shell
+Created my first script. Lakini ile giza naona weeh!!
